@@ -1,0 +1,6 @@
+if game.PlaceId == 155615604 then
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/Prison-life/main/Prison%20life%20lol"), true))()
+end
+if game.PlaceId ~= 4787629450
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/Ski-hub-uni/main/hell"), true))()
+end
